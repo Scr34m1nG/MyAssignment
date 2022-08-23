@@ -1,2 +1,3 @@
 # MyAssignment
-This Is SPARTAA!!!!!
+Adyatma Ruliff Brahmantyo
+NIM : 535210047
